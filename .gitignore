@@ -6,3 +6,8 @@ build
 releases
 .tmp
 .env
+
+dist
+releases
+.tmp
+build
