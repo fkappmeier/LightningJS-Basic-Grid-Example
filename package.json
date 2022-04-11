@@ -2,7 +2,8 @@
   "name": "com.metrological.app.myawesomeapp",
   "description": "Test-Application-New",
   "dependencies": {
-    "@lightningjs/sdk": "^4.8.2"
+    "@lightningjs/sdk": "^4.8.2",
+    "@lightningjs/ui": "^1.2.4"
   },
   "lint-staged": {
     "*.js": [
